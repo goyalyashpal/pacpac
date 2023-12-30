@@ -1,4 +1,4 @@
-# pacsort
+# pacpeck
 sensible output of msys2-pacman's search results
 
 ## License
