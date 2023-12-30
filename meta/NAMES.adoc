@@ -10,7 +10,11 @@ top one is currently under consideration.
 |===
 Name \\ Existing About \\ Link
 
+pacsort \\ \\
+pacparse \\ \\
+pacsparse \\ \\
+pacpeck \\ \\
 pacpack \\  \\ 
-pacpac \\ A lua-based Pac-Man clone \\ https://github.com/tylerneylon/pacpac
-pacsearch \\ a colorized search combining both -Ss and -Qs output \\ https://man.archlinux.org/man/extra/pacman-contrib/pacsearch.8.en
+pacpac \\ A lua-based Pac-Man clone \\ https://github.com/tylerneylon/pacpac[tylerneylon/pacpac]
+pacsearch \\ a colorized search combining both -Ss and -Qs output \\ https://man.archlinux.org/man/extra/pacman-contrib/pacsearch.8.en[pacsearch(8)]
 |===
