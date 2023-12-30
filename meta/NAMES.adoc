@@ -4,17 +4,23 @@ names thought in reverse chronological order:
 
 // https://docs.asciidoctor.org/asciidoc/latest/tables/data-format/#delimiter-separated-values
 
-top one is currently under consideration.
+vaccant ones are currently under consideration.
 
 [format=dsv,separator=\\]
 |===
 Name \\ Existing About \\ Link
 
-pacsort \\ \\
-pacparse \\ \\
+pacsort \\ sort utility implementing alpm_pkg_vercmp \\ https://man.archlinux.org/man/extra/pacman-contrib/pacsort.8.en[pacsort(8)]
+
+pacparse \\ an argument parser for pacman style command syntax \\ https://github.com/proxypoke/pacparse[proxypoke/pacparse]
+
+pacpeck (pck) \\ \\
+
 pacsparse \\ \\
-pacpeck \\ \\
+
 pacpack \\  \\ 
+
 pacpac \\ A lua-based Pac-Man clone \\ https://github.com/tylerneylon/pacpac[tylerneylon/pacpac]
+
 pacsearch \\ a colorized search combining both -Ss and -Qs output \\ https://man.archlinux.org/man/extra/pacman-contrib/pacsearch.8.en[pacsearch(8)]
 |===
