@@ -1,0 +1,17 @@
+= inspirations
+
+:gh: https://github.com/
+
+
+|===
+|name |what/why |ext/lang |licence |refs
+
+|column_ansi |project size, perl |`.sh`, `.pl` 
+|MIT |{gh}LukeSavefrogs/column_ansi[column_ansi]
+
+|pacboy |cli interface, pacman | `.sh`, `.completion` 
+|New BSD License (3-clause) |{gh}renatosilva/pactoys/tree/master/source/pacboy[pactoys/.../pacboy]
+
+|latexmk |cli interface in perl | https://ctan.org/tex-archive/support/latexmk[`.pl`]
+|https://ctan.org/pkg/latexmk/[GNU GPL-v2] |https://www.cantab.net/users/johncollins/latexmk/[cantab/johncollins/latexmk]
+|===
