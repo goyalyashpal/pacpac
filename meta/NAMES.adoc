@@ -1,0 +1,16 @@
+== suggest project names
+
+names thought in reverse chronological order:
+
+// https://docs.asciidoctor.org/asciidoc/latest/tables/data-format/#delimiter-separated-values
+
+top one is currently under consideration.
+
+[format=dsv,separator=\\]
+|===
+Name \\ Existing About \\ Link
+
+pacpack \\  \\ 
+pacpac \\ A lua-based Pac-Man clone \\ https://github.com/tylerneylon/pacpac
+pacsearch \\ a colorized search combining both -Ss and -Qs output \\ https://man.archlinux.org/man/extra/pacman-contrib/pacsearch.8.en
+|===
